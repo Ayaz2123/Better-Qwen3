@@ -52,21 +52,6 @@ class Filter:
         # It can also modify the request before sending it to the API.
 
         messages = body.get("messages", [])
-        modified_messages = []
-
-        for message in messages:
-            if message.get("role") == "assistant":
-                message_content = message.get("content", "")
-                pattern = r"<think[^>]*>.*?</think>"
-                modified_content = re.sub(pattern, "", message_content, flags=re.DOTALL)
-                modified_message = {"role": "assistant", "content": modified_content}
-            else:
-                modified_message = message
-            modified_messages.append(modified_message)
-
-        body["messages"] = modified_messages
-
-        messages = body.get("messages", [])
 
         if not messages:
             return body
