@@ -138,6 +138,10 @@ IMPORTANT:
                     + User_request_str
                     + "\n</Users_request>",
                 },
+                {
+                    "role": "assistant",
+                    "content": "<think>\n\n</think>\n\n",
+                },
             ],
             "temperature": 0.7,
         }
