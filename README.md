@@ -4,9 +4,7 @@ Auto Thinking Mode switch for Qwen3 in Open webui
 
 ---
 
-This is an open webui function for Qwen3 models, it has the following features:
-1. Automatically turn on/off the thinking process by using the LLM itself to evaluate the difficulty of your request.
-2. Remove model's old thoughts in multi-turn conversation, from Qwen3 model's hugging face README: `In multi-turn conversations, the historical model output should only include the final output part and does not need to include the thinking content.`
+This is an open webui function for Qwen3 models, it can automatically turn on/off the thinking process by using the LLM itself to evaluate the difficulty of your request.
 
 ---
 
