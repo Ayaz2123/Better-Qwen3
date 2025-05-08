@@ -23,3 +23,5 @@ https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 Photo/Video/GIF enlargement and Video frame interpolation using machine learning
 
 ---
+
+![](https://github.com/AaronFeng753/Better-Qwen3/blob/main/screenshot.png?raw=true)
