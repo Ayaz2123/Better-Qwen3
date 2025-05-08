@@ -111,8 +111,7 @@ class Filter:
             "messages": [
                 {
                     "role": "system",
-                    "content": """/no_think
-You are a specialized AI model acting as a Request Difficulty Assessor.""",
+                    "content": """You are a specialized AI model acting as a Request Difficulty Assessor.""",
                 },
                 {
                     "role": "user",
