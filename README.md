@@ -12,6 +12,8 @@ This is an open webui function for Qwen3 models, it has the following features:
 
 ### Code: https://github.com/AaronFeng753/Better-Qwen3/blob/main/BetterQwen3.py
 
+![](https://github.com/AaronFeng753/Better-Qwen3/blob/main/config.png?raw=true)
+
 ---
 
 Check out my other project: 
