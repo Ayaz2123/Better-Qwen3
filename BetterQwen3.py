@@ -122,11 +122,11 @@ You will receive a user's request message.
 Your objective is to determine if this request requires careful, deliberate thought from the downstream AI, or if it's straightforward.
 
 Criteria for your decision:
-1. If the user's request is complex, nuanced, requires multi-step reasoning, creative generation, in-depth analysis, or careful consideration by the AI to produce a high-quality response, you MUST respond with: `/think_carefully`
-2. If the user's request is simple, factual, straightforward, or can likely be answered quickly and directly by the AI with minimal processing or deliberation, you MUST respond with: `/do_not_think`
+1. If the user's request is complex, nuanced, requires multi-step reasoning, creative generation, in-depth analysis, or careful consideration by the AI to produce a high-quality response, you MUST respond with: `hard`
+2. If the user's request is simple, factual, straightforward, or can likely be answered quickly and directly by the AI with minimal processing or deliberation, you MUST respond with: `easy`
 
 IMPORTANT:
-- Your response MUST be EXACTLY one of the two commands: `/think_carefully` and `/do_not_think`
+- Your response MUST be EXACTLY one of the two commands: `hard` and `easy`
 - Do NOT add any other text, explanations, or pleasantries.
 - Your assessment is about the processing difficulty for the *AI that will ultimately handle the user's request*.
 
@@ -159,7 +159,7 @@ IMPORTANT:
             api_reply = re.sub(pattern, "", api_reply, flags=re.DOTALL)
             api_reply = api_reply.lower()
 
-            if "/think_carefully" in api_reply:
+            if "hard" in api_reply:
                 latest_user_msg["content"] += f"\n\n/think"
                 await __event_emitter__(
                     {
@@ -170,7 +170,7 @@ IMPORTANT:
                         },
                     }
                 )
-            elif "/do_not_think" in api_reply:
+            elif "easy" in api_reply:
                 latest_user_msg["content"] += f"\n\n/no_think"
                 await __event_emitter__(
                     {
